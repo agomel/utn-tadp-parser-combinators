@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="032163e4-53b6-4c07-9d01-1e46462fca43" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/practico/PracticoIndividualTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/practicCase/MusicParser.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/practicCase/MusicParser.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -38,14 +39,86 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+              <first_editor relative-caret-position="68">
+                <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Parser.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="28" column="108" lean-forward="true" selection-start-line="28" selection-start-column="108" selection-end-line="28" selection-end-column="108" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/practicCase/MusicParser.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="63" column="33" lean-forward="true" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/ParserTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="444" selection-start-line="444" selection-end-line="444" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/practico/PracticoIndividualTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+              <folding>
+                <element signature="e#18#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/practicCase/MusicParserTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Exceptions.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/practicCase/Musica.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -91,12 +164,13 @@
         <option value="$PROJECT_DIR$/src/main/scala/Exceptions.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/practicCase/AudioPlayer.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/practicCase/MusicParserTest.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/practicCase/MusicParser.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/ParserTest.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Parser.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/practicCase/PlayAudio.scala" />
         <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/test/scala/practico/PracticoIndividualTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/practicCase/MusicParser.scala" />
       </list>
     </option>
   </component>
@@ -165,6 +239,14 @@
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="practicCase" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="utn-tadp-parser-combinators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="utn-tadp-parsers-combinators" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="practico" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -176,12 +258,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565572852235" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565575641065" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -207,7 +289,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PlayAudio">
+  <component name="RunManager" selected="ScalaTest.ScalaTests in 'scala'">
     <configuration name="PlayAudio" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="practicCase.PlayAudio" />
       <module name="utn-tadp-parser-combinators" />
@@ -217,23 +299,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MusicParserTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <module name="utn-tadp-parser-combinators" />
-      <setting name="path" value="MusicParserTest" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="showProgressMessages" value="true" />
-      <setting name="useSbt" value="false" />
-      <setting name="useUiWithSbt" value="false" />
-      <envs />
-      <setting name="testKind" value="Class" />
-      <setting name="path" value="MusicParserTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -273,6 +338,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PracticoIndividualTest.Practico individual melodia debería ser una lista con los sonidos Sonido(Tono(4,C),Negra), Sonido(Tono(4,C),Negra), Sonido(Tono(4,D),Blanca), Sonido(Tono(4,C),Negra)&#10;Practico individual melodia deberia parsear el tocable correcto si esta seguido por uno con un typo&#10;Practico individual melodia si no puede parsear ni un tocable, List()&#10;Practico individual melodia debería ser una lista con tres veces 4C1/4" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="utn-tadp-parser-combinators" />
+      <setting name="path" value="practico.PracticoIndividualTest" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Test name" />
+      <setting name="path" value="practico.PracticoIndividualTest" />
+      <setting name="testName" value="Practico individual melodia debería ser una lista con los sonidos Sonido(Tono(4,C),Negra), Sonido(Tono(4,C),Negra), Sonido(Tono(4,D),Blanca), Sonido(Tono(4,C),Negra)&#10;Practico individual melodia deberia parsear el tocable correcto si esta seguido por uno con un typo&#10;Practico individual melodia si no puede parsear ni un tocable, List()&#10;Practico individual melodia debería ser una lista con tres veces 4C1/4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ScalaTests in 'scala'" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true">
       <module name="utn-tadp-parser-combinators" />
       <setting name="path" value="" />
@@ -288,17 +371,19 @@
       <setting name="package" value="" />
       <buffered bufClass="ParserTest" />
       <buffered bufClass="ProjectSpec" />
+      <buffered bufClass="practico.PracticoIndividualTest" />
+      <buffered bufClass="practico.PracticoIndividualTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="ScalaTest.ScalaTests in 'scala'" />
+        <item itemvalue="ScalaTest.PracticoIndividualTest.Practico individual melodia debería ser una lista con los sonidos Sonido(Tono(4,C),Negra), Sonido(Tono(4,C),Negra), Sonido(Tono(4,D),Blanca), Sonido(Tono(4,C),Negra)&#10;Practico individual melodia deberia parsear el tocable correcto si esta seguido por uno con un typo&#10;Practico individual melodia si no puede parsear ni un tocable, List()&#10;Practico individual melodia debería ser una lista con tres veces 4C1/4" />
         <item itemvalue="Application.PlayAudio" />
         <item itemvalue="ScalaTest.ScalaTests in 'scala'" />
         <item itemvalue="ScalaTest.ScalaTests in 'scala'" />
-        <item itemvalue="ScalaTest.ScalaTests in 'scala'" />
-        <item itemvalue="ScalaTest.ParserTest" />
       </list>
     </recent_temporary>
   </component>
@@ -361,14 +446,11 @@
       <workItem from="1565568066498" duration="663000" />
       <workItem from="1565569398887" duration="111000" />
       <workItem from="1565569987963" duration="2232000" />
-      <workItem from="1565572340292" duration="541000" />
+      <workItem from="1565572340292" duration="3277000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ParserTest - 2019.07.01 at 18h 50m 35s.xml">
-      <configuration name="ParserTest" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
     <history-entry file="ParserTest - 2019.07.01 at 18h 52m 25s.xml">
       <configuration name="ParserTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
@@ -396,9 +478,12 @@
     <history-entry file="ScalaTests_in_'scala' - 2019.08.11 at 22h 13m 42s.xml">
       <configuration name="ScalaTests in 'scala'" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
+    <history-entry file="ScalaTests_in_'scala' - 2019.08.11 at 22h 58m 41s.xml">
+      <configuration name="ScalaTests in 'scala'" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96912000" />
+    <option name="totallyTimeSpent" value="99648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -597,13 +682,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/practicCase/Musica.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Ago.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/practicCase/Exceptions.scala">
       <provider selected="true" editor-type-id="text-editor">
@@ -612,41 +690,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/practicCase/MusicParserTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="78" column="51" lean-forward="true" selection-start-line="78" selection-start-column="51" selection-end-line="78" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Exceptions.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="72" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/practicCase/AudioPlayer.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
           <caret line="31" column="6" lean-forward="true" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/ParserTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="444" selection-start-line="444" selection-end-line="444" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Parser.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -661,13 +708,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="36" selection-start-column="36" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/practicCase/MusicParser.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -688,10 +728,68 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+          <first_editor relative-caret-position="68">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Parser.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="28" column="108" lean-forward="true" selection-start-line="28" selection-start-column="108" selection-end-line="28" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/practicCase/Musica.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/ParserTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="444" selection-start-line="444" selection-end-line="444" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Exceptions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/practicCase/MusicParserTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/practicCase/MusicParser.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="63" column="33" lean-forward="true" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/practico/PracticoIndividualTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <element signature="e#18#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

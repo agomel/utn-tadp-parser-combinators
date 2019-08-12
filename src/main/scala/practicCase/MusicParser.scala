@@ -54,6 +54,20 @@ package object MusicParser {
 
   case object tocableParser extends Parser[Tocable]((silencioParser <|> sonidoParser <|> acordeParser)(_))
 
-  case object melodiaParser extends Parser[Melodia](tocableParser.sepBy(char(' '))(_))
+  case object multiplicadorParser extends Parser[Melodia](
+    ( (char('x') ~> integer) <~ char('(')
+        <>
+      melodiaParser <~ char(')') )
+          .map{ case (multiplicador, melodia) => (1 to multiplicador).toList.flatMap(_ => melodia) }(_)
+  )
+
+//  case object melodiaParser extends Parser[Melodia](tocableParser.sepBy(char(' '))(_))
+
+  case object melodiaParser extends Parser[Melodia](
+    ( tocableParser.map(tocable => List(tocable)) <|> multiplicadorParser )
+      .sepBy(char(' '))
+      .map(_.flatten)
+      (_)
+  )
 
 }
