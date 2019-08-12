@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/utn-tadp-parser-combinators.iml" filepath="$PROJECT_DIR$/.idea/utn-tadp-parser-combinators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utn-tadp-parser-combinators.iml" filepath="$PROJECT_DIR$/.idea/modules/utn-tadp-parser-combinators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utn-tadp-parser-combinators-build.iml" filepath="$PROJECT_DIR$/.idea/modules/utn-tadp-parser-combinators-build.iml" />
     </modules>
   </component>
 </project>
